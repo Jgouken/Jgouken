@@ -26,6 +26,7 @@ Work/Repo  | Description
 Discord.js Basic Bot Handler  | A template repository attempted to be made for discord.js developers!
 Junk | A folder of files from previous forgotten works saved onto my computer for future reference. Feel free to copy some code!
 Train Central  | An upcoming grand discord.js project...stay tuned...
+
 Others are self-projects or private repositories.
 #### My index.js
 
