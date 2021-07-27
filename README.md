@@ -1,12 +1,11 @@
 JS BACKTICKS (&#96;) ARE BETTER THAN QUOTES (&quot;)
 # Introduction
 
-I am Jgouken, a young developer with ambitions and dreams, just not the best at design. I finally got around to updating this from my crappy 3 sentence emoji-filled thing. I have quite the bit of dedication and creativity than it seems, so here&#39;s are a couple of details about me!
+I am Jgouken, a young developer with ambitions and dreams, just not the best at design. I finally got around to updating this from my crappy 3 sentence emoji-filled thing. I have a bit of dedication and creativity, so here&#39;s are a couple of details about me!
 
 - Mainly uses **discord.js**.
 - Learned **JavaScript** and **Swift**.
 - Learning **HMTL**, **CSS**, and **C languages**.
-- **Collaborated** with many developers on their projects.
 - In the process of a huge **discord.js project** never seen before.
 - **Visual Studio Code** is my editor of choice.
 - **GitHub** is my code-saver of choice.
