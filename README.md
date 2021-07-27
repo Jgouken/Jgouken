@@ -16,7 +16,7 @@ I am Jgouken, a young developer with ambitions and dreams, just not the best at 
 **Javascript** - Intermediate&#42;\
 **Swift** - Intermediate&#42;\
 **HTML** - Beginner\
-**C Languages** - Beginner\
+**C Languages** - Beginner
 
 &#42; Easily 1-upped, but I know plenty.
 # Works
