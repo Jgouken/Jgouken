@@ -22,6 +22,7 @@ I am Jgouken, a young developer with ambitions and dreams, just not the best at 
 
 Work/Repo  | Description
 ------------- | -------------
+Wyvern | Head Developer for Wyvern on Discord
 Discord.js Basic Bot Handler  | A template repository attempted to be made for discord.js developers!
 Junk | A folder of files from previous forgotten works saved onto my computer for future reference. Feel free to copy some code!
 Train Central  | An upcoming grand discord.js project...stay tuned...
