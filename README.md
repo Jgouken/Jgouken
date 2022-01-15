@@ -56,8 +56,6 @@ bot.login(config.TOKEN)
 ```
 Feel free to copy the code! It&#39;s nothing but a combination of codes I found on the internet.
 
-# Comments
+# Compliments
 
-"Your dedication is impressive." - Manager of WoC [discord.gg/program](http://discord.gg/program "discord.gg/program")
-
-**You&#39;ve reached the end of the page.**
+"Your dedication is impressive." - Manager of [WoC](http://discord.gg/program)
