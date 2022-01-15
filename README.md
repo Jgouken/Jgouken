@@ -1,31 +1,24 @@
-JS BACKTICKS (&#96;) ARE BETTER THAN QUOTES (&quot;)
-# Introduction
-
-I am Jgouken, a young developer with ambitions and dreams, just not the best at design. I finally got around to updating this from my crappy 3 sentence emoji-filled thing. I have a bit of dedication and creativity, so here&#39;s are a couple of details about me!
+I am Jgouken, a young developer with plans. I know how to take time out of my life to make plans for my future. Fueling off of dedication and creativity, I&#39;m growing my reputation as a Software Developer.
 
 - Mainly uses **discord.js**.
-- Learned **JavaScript** and **Swift**.
-- Learning **HMTL**, **CSS**, and **C languages**.
-- In the process of a huge **discord.js project** never seen before.
+- Learned **JavaScript**, **Swift**, and **C languages**.
+- Learning **HMTL**, and **CSS**.
 - **Visual Studio Code** is my editor of choice.
 - **GitHub** is my code-saver of choice.
 - **Orange** is my color of choice.
 
 #### Levels
-**Javascript** - Intermediate&#42;\
+**Javascript** - Advanced&#42;\
 **Swift** - Intermediate&#42;\
-**HTML** - Beginner\
-**C Languages** - Beginner
+**C Languages** - Intermediate&#42;\
+**HTML** - Beginner
 
-&#42; Easily 1-upped, but I know plenty.
-# Works
+# Works/Volunteers
 
-Work/Repo  | Description
+Work  | Description
 ------------- | -------------
-Wyvern | Head Developer for Wyvern on Discord
-Discord.js Basic Bot Handler  | A template repository attempted to be made for discord.js developers!
-Junk | A folder of files from previous forgotten works saved onto my computer for future reference. Feel free to copy some code!
-Train Central  | An upcoming grand discord.js project...stay tuned...
+[Matrix Development](https://github.com/MatrixDevelopment-GH) | Developer
+[Wyvern](https://discordbotlist.com/bots/wyvern) | Previous Lead Developer
 
 Others are self-projects or private repositories.
 #### My index.js
