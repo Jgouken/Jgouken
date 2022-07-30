@@ -8,9 +8,9 @@ I am Jgouken, a young developer with plans. I know how to take time out of my li
 - **Orange** is my color of choice.
 
 #### Levels
-**Javascript** - Intermediate&#42;\ (Certification in progress)
-**Swift** - Intermediate&#42;\ (Uncertified)
-**C Languages** - Intermediate&#42;\ (Uncertified)
+**Javascript** - Intermediate (Certification in progress)&#42;\
+**Swift** - Intermediate (Uncertified)&#42;\
+**C Languages** - Intermediate (Uncertified)&#42;\
 **HTML** - Intermediate (Uncertified)
 
 # Works/Volunteers
