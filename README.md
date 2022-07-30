@@ -4,14 +4,14 @@ I am Jgouken, a young developer with plans. I know how to take time out of my li
 - Learned **JavaScript**, **Swift**, and **C languages**.
 - Learning **HMTL**, and **CSS**.
 - **Visual Studio Code** is my editor of choice.
-- **GitHub** is my code-saver of choice.
+- **GitHub** and **Replit** are my code-savers of choice.
 - **Orange** is my color of choice.
 
 #### Levels
-**Javascript** - Intermediate (Certification in progress);\
-**Swift** - Intermediate (Uncertified);\
-**C Languages** - Intermediate (Uncertified);\
-**HTML** - Intermediate (Uncertified)
+**Javascript** - Intermediate (*Certif. in progress*)\
+**Swift** - Intermediate (*Uncertif.*)\
+**C Languages** - Intermediate (*Uncertif.*)\
+**HTML** - Intermediate (*Uncertif.*)
 
 # Works/Volunteers
 
