@@ -7,7 +7,7 @@ I am Jgouken, a young developer with plans. I know how to take time out of my li
 - **GitHub** and **Replit** are my code-savers of choice.
 - **Orange** is my color of choice.
 
-#### Levels
+#### Programming Knowledge
 **Javascript** - Intermediate (*Certif. in progress*)\
 **Swift** - Intermediate (*Uncertif.*)\
 **C Languages** - Intermediate (*Uncertif.*)\
@@ -15,12 +15,17 @@ I am Jgouken, a young developer with plans. I know how to take time out of my li
 
 # Works/Volunteers
 
-Work  | Description
-------------- | -------------
-[Matrix Development](https://github.com/MatrixDevelopment-GH) | Retired Developer
-[Wyvern](https://discordbotlist.com/bots/wyvern) | Retired Lead Developer
+Work  | Position | Description
+------------- | ------------- | -------------
+[Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Self | Self-lead project to create helpful commands not seen in many other bots.
+[Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Self | For me and the public to use my code not often seen by others for many functionalities.
+[Junk](https://github.com/Jgouken/Junk) | Self | A dump of random discarded files lounging on my computer.
+[Snake](https://github.com/Jgouken/snake) | Self | My first HTML video game to show myself the ropes.
+[Calculator](https://github.com/Jgouken/calculator) | Self | My first ver simple HTML/CSS program.
+[Matrix Development](https://github.com/MatrixDevelopment-GH) | Retired Developer | Designed new processes and abilities that boosted the bot architecually.
+[Wyvern](https://discordbotlist.com/bots/wyvern) | Retired Lead Developer | Previously lead new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities.
 
-Others are self-projects or private repositories.
+Sorted from Newest to Oldest. Not mentioned are private repositories for school, business, personal, or discarded reasons.
 #### My index.js
 
 ```javascript
