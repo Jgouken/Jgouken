@@ -22,7 +22,7 @@ Work  | Position | Description
 [Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Self | For me and the public to use my code not often seen by others for many functionalities.
 [Junk](https://github.com/Jgouken/Junk) | Self | A dump of random discarded files lounging on my computer.
 [Snake](https://github.com/Jgouken/snake) | Self | My first HTML video game to show myself the ropes.
-[Calculator](https://github.com/Jgouken/calculator) | Self | My first ver simple HTML/CSS program.
+[Calculator](https://github.com/Jgouken/calculator) | Self | My first very simple HTML/CSS program.
 [Matrix Development](https://github.com/MatrixDevelopment-GH) | Retired Developer | Designed new processes and abilities that boosted the bot architecually.
 [Wyvern](https://discordbotlist.com/bots/wyvern) | Retired Lead Developer | Previously lead new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities.
 
