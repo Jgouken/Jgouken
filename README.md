@@ -1,7 +1,6 @@
 I am Jgouken, a young developer with plans. I know how to take time out of my life to make plans for my future. Fueling off of dedication and creativity, I&#39;m growing my reputation as a Software Developer.
 
 - Obtaining **JavaScript Certification**.
-- Mainly uses **discord.js**.
 - Learned **JavaScript**, **Swift**, and **C languages**.
 - Learning **Spanish** and **Japanese**.
 - Learning **HMTL** and **CSS**.
@@ -28,7 +27,7 @@ Work  | Position | Description
 [Wyvern](https://discordbotlist.com/bots/wyvern) | Retired Lead Developer | Previously lead new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities.
 
 Sorted from Newest to Oldest. Not mentioned are private repositories for school, business, personal, or discarded reasons.
-#### My index.js
+#### My index.js (discord.js)
 
 ```javascript
 const config = require('./config/config')
@@ -87,10 +86,18 @@ bot.on('ready', async () => {
 })
 
 bot.login(config.TOKEN)
+// Code put together by https://github.com/Jgouken. Full program can be found here https://github.com/Jgouken/MakeAMand.
+// My coding template can be found here https://github.com/Jgouken/Discord.js-Basic-Bot-Handler.
 ```
-Feel free to copy the code! It&#39;s nothing but a combination of codes I found on the internet.
+Feel free to copy my public code for any non-commercial purposes. Credit is not required but is fully appreciated!
 
 # Compliments
 
-"Your dedication is impressive." - Manager of [WoC](http://discord.gg/program)
-
+> "It's amazing to see how he wraps his brain around a problem at such a young age."
+- [Tesla Nevada](https://www.tesla.com/gigafactory) Official/Recruiter
+> "Your work, time, and dedication is exceedingly astounding for this [robotics] team."
+- Senior Architect/Teacher
+> "Your dedication is impressive."
+- Manager of [World of Code](http://discord.gg/program)
+> "This [robotics team] would not have succeeded if you weren't here."
+- Fellow Robotics Student
