@@ -1,8 +1,10 @@
 I am Jgouken, a young developer with plans. I know how to take time out of my life to make plans for my future. Fueling off of dedication and creativity, I&#39;m growing my reputation as a Software Developer.
 
+- Obtaining **JavaScript Certification**.
 - Mainly uses **discord.js**.
 - Learned **JavaScript**, **Swift**, and **C languages**.
-- Learning **HMTL**, and **CSS**.
+- Learning **Spanish** and **Japanese**.
+- Learning **HMTL** and **CSS**.
 - **Visual Studio Code** is my editor of choice.
 - **GitHub** and **Replit** are my code-savers of choice.
 - **Orange** is my color of choice.
