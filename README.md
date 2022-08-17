@@ -1,4 +1,4 @@
-I am Jgouken, a young developer with plans. I know how to take time out of my life to make plans for my future. Fueling off of dedication and creativity, I&#39;m growing my reputation as a Software Developer.
+I'm a Software Programmer, a young developer with plans. I know how to take time out of my life to make plans for my future. Fueling off of dedication and creativity, I'm growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website development and game development.
 
 - Obtaining **JavaScript Certification**.
 - Learned **JavaScript**, **Swift**, and **C languages**.
