@@ -1,4 +1,4 @@
-I'm a Software Programmer, a young developer with plans. I know how to take time out of my life to make plans for my future. Fueling off of dedication and creativity, I'm growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website development and game development.
+I'm a Software Programmer, a young developer with plans. I know how to take time out of my life to make plans for my future. Fueling off of dedication and creativity, I'm growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website development and game development. I learn quickly and effectively to ensure I produce the best material in a short amount of time.
 
 - Obtaining **JavaScript Certification**.
 - Learned **JavaScript**, **Swift**, and **C languages**.
@@ -12,7 +12,7 @@ I'm a Software Programmer, a young developer with plans. I know how to take time
 **Javascript** - Intermediate (*Certif. in progress*)\
 **Swift** - Intermediate (*Uncertif.*)\
 **C Languages** - Intermediate (*Uncertif.*)\
-**HTML** - Intermediate (*Uncertif.*)
+**HTML** - Beginner (*Uncertif.*)
 
 # Works/Volunteers
 
@@ -24,10 +24,11 @@ Work  | Position | Description
 [Snake](https://github.com/Jgouken/snake) | Self | My first HTML video game to show myself the ropes.
 [Calculator](https://github.com/Jgouken/calculator) | Self | My first very simple HTML/CSS program.
 [Matrix Development](https://github.com/MatrixDevelopment-GH) | Retired Developer | Designed new processes and abilities that boosted the bot architecually.
-[Wyvern](https://discordbotlist.com/bots/wyvern) | Retired Lead Developer | Previously lead new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities.
+[Wyvern](https://wyvern.host/) ([Discord Bot](https://discordbotlist.com/bots/wyvern)) | Retired Lead Developer | Previously lead new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities.
 
-Sorted from Newest to Oldest. Not mentioned are private repositories for school, business, personal, or discarded reasons.
-#### My index.js (discord.js)
+Sorted from Newest to Oldest.
+Not mentioned: Private or Discarded repositories.
+#### My Main discord.js index.js File
 
 ```javascript
 const config = require('./config/config')
@@ -74,7 +75,7 @@ bot.on('ready', async () => {
 		const command = commandArgs.shift().toLowerCase()
 		const called = bot.commands.get(command)
 
-		if (message.content == '<@!botid>' || message.content == '<@botid>') return bot.commands.get('start').execute(message, member, commandArgs, bot.commands, config, bot)
+		if (message.content == '<@!932394428453232751>' || message.content == '<@932394428453232751>') return bot.commands.get('start').execute(message, member, commandArgs, bot.commands, config, bot)
 
 		if (!prefix) {
 			if (!message.content.toLocaleLowerCase().startsWith(config.prefix.toLocaleLowerCase())) return
@@ -87,9 +88,12 @@ bot.on('ready', async () => {
 
 bot.login(config.TOKEN)
 // Code put together by https://github.com/Jgouken. Full program can be found here https://github.com/Jgouken/MakeAMand.
-// My coding template can be found here https://github.com/Jgouken/Discord.js-Basic-Bot-Handler.
+// Getting into Discord Bots? My coding template can be found here https://github.com/Jgouken/Discord.js-Basic-Bot-Handler.
 ```
 Feel free to copy my public code for any non-commercial purposes. Credit is not required but is fully appreciated!
+
+# Personal Achievements
+Participated in a Robotics Team and became sponsored by businesses such as Amazon, Tesla, and Gene Haas.
 
 # Compliments
 
@@ -98,6 +102,4 @@ Feel free to copy my public code for any non-commercial purposes. Credit is not 
 > "Your work, time, and dedication is exceedingly astounding for this [robotics] team."
 - Senior Architect/Teacher
 > "Your dedication is impressive."
-- Manager of [World of Code](http://discord.gg/program)
-> "This [robotics team] would not have succeeded if you weren't here."
-- Fellow Robotics Student
+- Manager of World of Code [Discord Server](http://discord.gg/program)
