@@ -1,5 +1,8 @@
 # Jgouken
-I'm a Software Programmer celebrating 4 years of software development 🎉🎉🎉! I'm fulfilling my wish of kicking this world in its hind-quarters, fueling off of dedication and creativity and slowly growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website and game development for the betterment and interconnection of interests. I have a lot on my plate, but I learn quickly and effectively to ensure I produce the best material I can with the least amount of second guessing. Maybe one day this name will land in the papers!
+I'm a `Software Programmer`, celebrating **4 years** of Software Programming 🎉🎉🎉!
+First thing's first, I'm fueling off of dedication and creativity and slowly growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website and game development for the betterment and interconnection of interests. I have a lot on my plate, but I learn quickly and effectively to ensure I produce the best material I can with the least amount of second guessing. One day this name may land in the papers! 📰
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
 
 - Learned **JavaScript**, **Swift**, and **C languages**.
 - Learning **HMTL** and **CSS**.
@@ -14,7 +17,7 @@ I'm a Software Programmer celebrating 4 years of software development 🎉🎉�
 **HTML/CSS** - Beginner
 
 # Works/Volunteers
-All of the following are works of Discord.js bots going back to May 17th, 2020 with 27,000+[^1] lines of code in counting.
+All of the following are works of Discord.js bots going back to May 17th, 2020 with 27,000+ [^1] lines of code in counting.
 Work  | Position | Description
 ------------- | ------------- | -------------
 [Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Volunteer Developer (scrapped) | Previously assisted aspiring developers create commands their privated server's needs.
@@ -29,7 +32,7 @@ Work  | Position | Description
 [Wyvern](https://wyvern.host/) ([Discord Bot](https://discordbotlist.com/bots/wyvern)) | Lead Volunteer Developer (Retired) | Previously lead new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities.
 [JgoChat](https://github.com/Jgouken/JgoChat) | Solo (scrapped) | A very old project to essentially create ChatGPT (before it was even created) didn't lead to anywhere.
 
-Not mentioned: Private or Discarded repositories.[^2]
+Not mentioned: Private or Discarded repositories. [^2]
 #### My Main discord.js index.js File
 
 ```javascript
@@ -62,7 +65,7 @@ config.bot.login(config.TOKEN)
 // Code put together within a private repository.
 // Not much code, right? I've allocated more of my time to reorganization, just so that I know exactly where what happens.
 ```
-Feel free to copy my public code![^3]
+Feel free to copy my public code! [^3]
 
 # Personal Achievements
 Participated in a Robotics Team and became sponsored by businesses such as Amazon, Tesla, and Gene Haas.
@@ -76,6 +79,6 @@ Participated in a Robotics Team and became sponsored by businesses such as Amazo
 > "Your dedication is impressive."
 - Manager of World of Code [Discord Server](http://discord.gg/program)
 
-[^1]: Approximate value rounding from 26,297, including privated content. "Lines of code" exclude comments.
+[^1]: Approximate value rounding from 26,297, as well as including privated content. "Lines of code" exclude comments.
 [^2]: Several privated repositories exist and will remain privated until further notice or until the end of that work.
 [^3]: All repositories are Copyright (c) 2022 Jgouken. Follow "LICENSE" file within the respective repository.
