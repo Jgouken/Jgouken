@@ -18,7 +18,7 @@ First thing's first, I'm fueling off of dedication and creativity and slowly gro
 All of the following are works of Discord.js bots going back to May 17th, 2020 with 27,000+ [^1] lines of code in counting.
 Work  | Position | Description
 ------------- | ------------- | -------------
-[The Introvert Advantage](https://github.com/the-introvert-advantage) | School Project & Solo | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future.
+[The Introvert Advantage](https://github.com/jgouken/the-introvert-advantage) | School Project & Solo | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future.
 [Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Volunteer Developer (scrapped) | Previously assisted aspiring developers create commands their privated server's needs.
 [Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Solo | Self-lead project to create helpful commands not seen in many other bots. Lead to nowhere.
 [Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Solo | For me and the public to use my code not often seen by others for many functionalities.
