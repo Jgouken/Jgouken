@@ -1,38 +1,35 @@
 # Jgouken
 I'm a `Software Programmer`, celebrating **5 years** of Software Programming 🎉5️⃣🎉!
-First thing's first, I'm fueling off of dedication and creativity and slowly growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website and game development for the betterment and interconnection of interests. I have a lot on my plate, but I learn quickly and effectively to ensure I produce the best material I can with the least amount of second guessing. One day this name may land in the papers! 📰
+First things first, I'm fueling off of dedication and creativity and slowly growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website and game development for the betterment and interconnection of interests. I have a lot on my plate, but I learn quickly and effectively to ensure I produce the best material I can with the least amount of second-guessing. One day this name may land in the papers! 📰
 
-- Learned **JavaScript**, **Swift**, and **C languages**.
-- Learning **HMTL** and **CSS**.
+- Learned **JavaScript**, **Swift**, **Java,** and **C-langs**.[^4]
+- Learning **HMTL**, **CSS**, and **Python**.
 - **Visual Studio Code** is my editor of choice.
 - **GitHub** and **Replit** are my code-savers of choice.
 - **Orange** is my color of choice.
 
-#### Programming Knowledge
-**Javascript** - Intermediate to Advanced\
-**Swift** - Intermediate\
-**C Languages** - Intermediate\
-**HTML/CSS** - Beginner
-
 # Works/Volunteers
-All of the following are works of Discord.js bots going back to May 17th, 2020 with 34,000+ [^1] lines of code in counting.
-Work  | Position | Description
-------------- | ------------- | -------------
-[Text-Based Game](https://github.com/jgouken/text-based-game) | Solo | This is a discord.js variant of my original [text-based game](https://github.com/jgouken/the-introvert-advantage) done with a few of my friends. This is the biggest solo project I've tackled thus far, and there will be a YouTube video posted when I am done.
-[The Introvert Advantage](https://github.com/jgouken/the-introvert-advantage) | School Project | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future.
-[Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Volunteer (scrapped) | Previously assisted aspiring developers create commands for their private server's needs.
-[Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Solo | Self-lead project to create helpful commands not seen in many other bots. Lead to nowhere.
-[Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Solo | For me and the public to use my code not often seen by others for many functionalities.
-[TC-Phone](https://github.com/Jgouken/TC-Phone) | Solo (scrapped) | This was my add-on to Train Central; a "phone" for Discord users to use as their interface to this RPG world (such as an economy system).
-[Train Central](https://github.com/Jgouken/Train-Central) | Solo (scrapped) | This was an RPG-like idea using Discord; a train would go around different "regions" and users would have to catch the train to view and go to these regions.
-[Junk](https://github.com/Jgouken/Junk) | - | A dump of discarded files of mine lounging on my computer.
-[Snake](https://github.com/Jgouken/snake) | Solo | My first HTML video game to show me the ropes.
-[Calculator](https://github.com/Jgouken/calculator) | Solo | My first very simple HTML/CSS program.
-[Matrix Development](https://github.com/MatrixDevelopment-GH) | Volunteer (Retired) | Designed new processes and abilities that boosted the bot architecturally.
-[Wyvern](https://wyvern.host/) ([Discord Bot](https://discordbotlist.com/bots/wyvern)) | Volunteer (Retired) | As a lead developer, I've previously led new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities.
-[JgoChat](https://github.com/Jgouken/JgoChat) | Solo (scrapped) | A very old project to essentially create ChatGPT (before it was even created) didn't lead anywhere.
+All of the following are works of Discord.js bots going back to May 17th, 2020 with 34,000+[^1] lines of code in counting.
+Work  | Rank | Description | Active
+------------- | ------------- | ------------- | -------------
+[Text-Based Game](https://github.com/jgouken/text-based-game) | Solo | This is a discord.js variant of my original [text-based game](https://github.com/jgouken/the-introvert-advantage) done with a few of my friends. This is the biggest solo project I've tackled thus far, and there will be a YouTube video posted when I am done. | ✅
+[The Introvert Advantage](https://github.com/jgouken/the-introvert-advantage) | School | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future. | ❌
+[Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Volunteer | Previously assisted aspiring developers create commands for their private server's needs. | ❌
+[Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Solo | Self-lead project to create helpful commands not seen in many other bots. Lead to nowhere. | ❌
+[Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Solo | For me and the public to use my code not often seen by others for many functionalities. | ✅
+[TC-Phone](https://github.com/Jgouken/TC-Phone) | Solo | This was my add-on to Train Central; a "phone" for Discord users to use as their interface to this RPG world (such as an economy system). | ❌
+[Train Central](https://github.com/Jgouken/Train-Central) | Solo | This was an RPG-like idea using Discord; a train would go around different "regions" and users would have to catch the train to view and go to these regions. | ❌
+[Junk](https://github.com/Jgouken/Junk) | - | A dump of discarded files of mine lounging on my computer. | -
+[Snake](https://github.com/Jgouken/snake) | Solo | My first HTML video game to show me the ropes. | ❌
+[Calculator](https://github.com/Jgouken/calculator) | Solo | My first very simple HTML/CSS program. | ❌
+[Matrix Development](https://github.com/MatrixDevelopment-GH) | Volunteer | Designed new processes and abilities that boosted the bot architecturally. | ❌
+[Wyvern](https://wyvern.host/) ([Discord Bot](https://discordbotlist.com/bots/wyvern)) | Volunteer | As a lead developer, I've previously led new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities. | ❌
+[JgoChat](https://github.com/Jgouken/JgoChat) | Solo | A very old project to essentially create ChatGPT (before it was even created) didn't lead anywhere. | ❌
 
-Not mentioned: Private or Discarded repositories. [^2]
+Active - If I'm currently working on or updating the project.
+
+Not mentioned: Private or Discarded repositories.[^2]
+
 #### My Main discord.js index.js File
 
 ```javascript
@@ -73,7 +70,7 @@ start()
 // Code put together within my Text-Based-Game repository.
 // Not much code, right? I've allocated more of my time to reorganization, just so that I know exactly where what happens.
 ```
-Feel free to copy my public code! [^3]
+Feel free to copy my public code![^3]
 
 # Personal Achievements
 Participated in a Robotics Team and became sponsored by businesses such as Amazon, Tesla, and Gene Haas.
@@ -82,11 +79,13 @@ Participated in a Robotics Team and became sponsored by businesses such as Amazo
 
 > "It's amazing to see how he wraps his brain around a problem at such a young age."
 - [Tesla Nevada](https://www.tesla.com/gigafactory) Official/Recruiter
-> "Your work, time, and dedication is exceedingly astounding for this [robotics] team."
-- Senior Architect/Teacher
+> "Your work, time, and dedication are exceedingly astounding for this [robotics] team."
+- Senior Architect/Teacher[^5]
 > "Your dedication is impressive."
 - Manager of World of Code [Discord Server](http://discord.gg/program)
 
 [^1]: Estimated values. Includes private content.
 [^2]: Several private repositories exist and will remain private until further notice or until the end of that work.
-[^3]: All repositories are Copyright (c) 2022 Jgouken. Follow the "LICENSE" file within the respective repository.
+[^3]: All repositories are Copyright (c) Jgouken. Follow the "LICENSE" file within the respective repository or, if it does not exist, follow Github's default MIT license.
+[^4]: All of these I feel proficient at. Some cannot be found in any GitHub repository. C-langs include C, C+, C++, and C#.
+[^5]: Registered Architectural official, Navy Military veteran, and influential person.
