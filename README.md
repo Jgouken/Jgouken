@@ -2,7 +2,7 @@
 I'm a `Software Programmer`, celebrating **5 years** of Software Programming 🎉5️⃣🎉!
 First things first, I'm fueling off of dedication and creativity and slowly growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website and game development for the betterment and interconnection of interests. I have a lot on my plate, but I learn quickly and effectively to ensure I produce the best material I can with the least amount of second-guessing. One day this name may land in the papers! 📰
 
-- Applying to California Institute of Technology
+- Applying to California Institute of Technology.
 - Learned **JavaScript**, **Swift**, **Java,** and **C-langs**.[^4]
 - Learning **HMTL**, **CSS**, and **Python**.
 - **Visual Studio Code** is my editor of choice.
