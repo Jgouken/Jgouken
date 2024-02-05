@@ -12,7 +12,7 @@ First things first, I'm fueling off of dedication and creativity and slowly grow
 All of the following are works of Discord.js bots going back to May 17th, 2020 with 34,000+[^1] lines of code in counting.
 Work  | Rank | Description | Active
 ------------- | ------------- | ------------- | -------------
-[Text-Based Game](https://github.com/jgouken/text-based-game) | Solo | This is a discord.js variant of my original [text-based game](https://github.com/jgouken/the-introvert-advantage) done with a few of my friends. This is the biggest solo project I've tackled thus far, and there will be a YouTube video posted when I am done. | ✅
+[Text-Based Game](https://github.com/jgouken/text-based-game) | Solo | This is a discord.js variant of my original [text-based game](https://github.com/jgouken/the-introvert-advantage) done with a few of my friends. This is the biggest solo project I've tackled thus far, but due to hosting issues, it may not continue for a while. | ❌
 [The Introvert Advantage](https://github.com/jgouken/the-introvert-advantage) | School | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future. | ❌
 [Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Volunteer | Previously assisted aspiring developers create commands for their private server's needs. | ❌
 [Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Solo | Self-lead project to create helpful commands not seen in many other bots. Lead to nowhere. | ❌
