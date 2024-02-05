@@ -2,6 +2,7 @@
 I'm a `Software Programmer`, celebrating **5 years** of Software Programming 🎉5️⃣🎉!
 First things first, I'm fueling off of dedication and creativity and slowly growing my reputation as a Software Programmer. I started working with Discord Bots, wanting to learn website and game development for the betterment and interconnection of interests. I have a lot on my plate, but I learn quickly and effectively to ensure I produce the best material I can with the least amount of second-guessing. One day this name may land in the papers! 📰
 
+- Applying to California Institute of Technology
 - Learned **JavaScript**, **Swift**, **Java,** and **C-langs**.[^4]
 - Learning **HMTL**, **CSS**, and **Python**.
 - **Visual Studio Code** is my editor of choice.
@@ -12,11 +13,11 @@ First things first, I'm fueling off of dedication and creativity and slowly grow
 All of the following are works of Discord.js bots going back to May 17th, 2020 with 34,000+[^1] lines of code in counting.
 Work  | Rank | Description | Active
 ------------- | ------------- | ------------- | -------------
-[Text-Based Game](https://github.com/jgouken/text-based-game) | Group Project | This is a discord.js variant of my original text-based game done with a few of my friends. This is the biggest solo project I've tackled thus far, but due to hosting issues, it may not continue for a while. | ❌
+[Text-Based Game](https://github.com/jgouken/text-based-game) | Group Project | This is a discord.js variant of my original text-based game done with a few of my friends. This is the biggest solo project I've tackled thus far, but due to hosting issues, it may not continue for a while. | ✅
 [The Introvert Advantage](https://github.com/jgouken/the-introvert-advantage) | School Project | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future. | ❌
 [Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Volunteer | Previously assisted aspiring developers create commands for their private server's needs. | ❌
 [Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Solo | Self-lead project to create helpful commands not seen in many other bots. Lead to nowhere. | ❌
-[Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Solo | For me and the public to use my code not often seen by others for many functionalities. | ✅
+[Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Solo | For me and the public to use my code not often seen by others for many functionalities. | ❌
 [TC-Phone](https://github.com/Jgouken/TC-Phone) | Solo | This was my add-on to Train Central; a "phone" for Discord users to use as their interface to this RPG world (such as an economy system). | ❌
 [Train Central](https://github.com/Jgouken/Train-Central) | Solo | This was an RPG-like idea using Discord; a train would go around different "regions" and users would have to catch the train to view and go to these regions. | ❌
 [Junk](https://github.com/Jgouken/Junk) | - | A dump of discarded files of mine lounging on my computer. | -
@@ -28,7 +29,7 @@ Work  | Rank | Description | Active
 
 Active - If I'm currently working on or updating the project.
 
-Not mentioned: Private or Discarded repositories.[^2]
+Not mentioned: Private or Discarded repositories.[^2] May or may not be active.
 
 #### My Main discord.js index.js File (Outdated)
 
