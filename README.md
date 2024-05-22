@@ -87,6 +87,6 @@ Participated in a Robotics Team and became sponsored by businesses such as Amazo
 
 [^1]: Estimated values. Includes private content.
 [^2]: Several private repositories exist and will remain private until further notice or until the end of that work.
-[^3]: All repositories are Copyright (c) Jgouken. Follow the "LICENSE" file within the respective repository or, if it does not exist, follow Github's default MIT license.
+[^3]: All repositories are Copyright (c) Jgouken. Follow the "LICENSE" file within the respective repository; if it does not exist, redistribution is allowed with a copyright notice.
 [^4]: All of these I feel proficient at. Some cannot be found in any GitHub repository. C-langs include C, C+, C++, and C#.
 [^5]: Registered Architectural official, Navy Military veteran, and influential person.
