@@ -6,72 +6,26 @@ First things first, I'm fueling off of dedication and creativity and slowly grow
 - Learned **JavaScript**, **Swift**, **Java,** and **C-langs**.[^4]
 - Learning **HMTL**, **CSS**, and **Python**.
 - **Visual Studio Code** is my editor of choice.
-- **GitHub** and **Replit** are my code-savers of choice.
 - **Orange** is my color of choice.
 
 # Works/Volunteers
-All of the following are works of Discord.js bots going back to May 17th, 2020 with 34,000+[^1] lines of code in counting.
-Work  | Rank | Description | Active
-------------- | ------------- | ------------- | -------------
-[Text-Based Game](https://github.com/jgouken/text-based-game) | Group Project | This is a discord.js variant of my original text-based game done with a few of my friends. This is the biggest solo project I've tackled thus far, but due to hosting issues, it may not continue for a while. | ✅
-[The Introvert Advantage](https://github.com/jgouken/the-introvert-advantage) | School Project | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future. | ❌
-[Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Volunteer | Previously assisted aspiring developers create commands for their private server's needs. | ❌
-[Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Solo | Self-lead project to create helpful commands not seen in many other bots. Lead to nowhere. | ❌
-[Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Solo | For me and the public to use my code not often seen by others for many functionalities. | ❌
-[TC-Phone](https://github.com/Jgouken/TC-Phone) | Solo | This was my add-on to Train Central; a "phone" for Discord users to use as their interface to this RPG world (such as an economy system). | ❌
-[Train Central](https://github.com/Jgouken/Train-Central) | Solo | This was an RPG-like idea using Discord; a train would go around different "regions" and users would have to catch the train to view and go to these regions. | ❌
-[Junk](https://github.com/Jgouken/Junk) | - | A dump of discarded files of mine lounging on my computer. | -
-[Snake](https://github.com/Jgouken/snake) | Solo | My first HTML video game to show me the ropes. | ❌
-[Calculator](https://github.com/Jgouken/calculator) | Solo | My first very simple HTML/CSS program. | ❌
-[Matrix Development](https://github.com/MatrixDevelopment-GH) | Volunteer | Designed new processes and abilities that boosted the bot architecturally. | ❌
-[Wyvern](https://wyvern.host/) ([Discord Bot](https://discordbotlist.com/bots/wyvern)) | Volunteer | As a lead developer, I've previously led new designs, creations, and commands that suited the bots' needs along with user-friendly capabilities. | ❌
-[JgoChat](https://github.com/Jgouken/JgoChat) | Solo | A very old project to essentially create ChatGPT (before it was even created) didn't lead anywhere. | ❌
-
-Active - If I'm currently working on or updating the project.
+All of the following are works of Discord.js bots going back to May 17th, 2020 with 34,000+[^1] lines of code in counting, in order of importance/detail.
+Work  | Software | Description | Done | Year
+------------- | ------------- | ------------- | ------------- | -------------
+[2D-Based Game](https://github.com/jgouken/2D-based-game) | Unity 2D | A 2D Unity game project revolving around multiple characters traveling through a castle. | ❌ | 2024
+[Text-Based Game](https://github.com/jgouken/text-based-game) | Discord.js | This is a discord.js variant of my original text-based game done with a few of my friends. This is the biggest solo project I've tackled thus far, but due to hosting issues, it may not continue for a while. | ❌ | 2023
+[The Introvert Advantage](https://github.com/jgouken/the-introvert-advantage) | HTML/CSS/JS | This was done as an assignment. This is a [text-based game](https://the-introvert-advantage.jgouken.repl.co/) using HTML, CSS, and JavaScript. This project will be expanded significantly in the future. | ❌ | 2023
+[Make-A-Mand](https://github.com/Jgouken/MakeAMand) | Discord.js | Self-lead project to create helpful commands not seen in many other bots. | ❌ | 2022
+[Bot-ez-a](https://github.com/Jgouken/BOT-ez-a) | Discord.js | Previously assisted aspiring developers create commands for their private server's needs. | ✅ | 2022
+[Snake](https://github.com/Jgouken/snake) | HTML/CSS/JS | My first HTML video game to show me the ropes. | ✅ | 2021
+[Calculator](https://github.com/Jgouken/calculator) | HTML/CSS/JS | My first very simple HTML/CSS program. | ✅ | 2021
+[Discord.js Bot Handler](https://github.com/Jgouken/Discord.js-Basic-Bot-Handler) | Discord.js | For me and the public to use my code not often seen by others for many functionalities (deprecated). | ✅ | 2021
+[TC-Phone](https://github.com/Jgouken/TC-Phone) | Discord.js | This was my add-on to Train Central; a "phone" for Discord users to use as their interface to this RPG world (such as an economy system). | ❌ | 2021
+[Train Central](https://github.com/Jgouken/Train-Central) | Discord.js | This was an RPG-like idea using Discord; a train would go around different "regions" and users would have to catch the train to view and go to these regions. | ❌ | 2021
+[JgoChat](https://github.com/Jgouken/JgoChat) | Solo | A very old project to essentially create ChatGPT (prior to it becoming mainstream). | ❌ | 2021
+[Junk](https://github.com/Jgouken/Junk) | Various | A dump of discarded files of mine lounging on my computer before I knew of GitHub. | - | 2020
 
 Not mentioned: Private or Discarded repositories.[^2] May or may not be active.
-
-#### My Main discord.js index.js File (Outdated)
-
-```javascript
-const { Collection, Routes } = require('discord.js');
-const config = require('./config/config.js')
-const listeners = require('./config/listeners.js');
-const { REST } = require('@discordjs/rest');
-const rest = new REST({ version: '10' }).setToken(config.TOKEN);
-
-const fs = require('fs');
-const path = require('path');
-const sCommandsPath = path.join(__dirname, 'slash_commands');
-const sCommandFiles = fs.readdirSync(sCommandsPath).filter(file => file.endsWith('.js'));
-
-config.bot.sCommands = new Collection();
-let scmds = []
-
-for (const file of sCommandFiles) {
-	const command = require(`./slash_commands/${file}`);
-	if (command.data) {
-		config.bot.sCommands.set(command.data.name, command);
-		scmds.push(command.data)
-	}
-	// If not, it's just a slash command
-}
-
-async function start() {
-	await rest.put(
-		Routes.applicationGuildCommands(config.clientId, '...'),
-		{ body: scmds.map(command => command.toJSON()) },
-	).then(() => {console.log('Slash Commands Updated')}).catch(console.error);
-
-	await listeners.execute(config.bot, config.db) // Puts "Listeners Executed" in the console
-
-	await config.bot.login(config.TOKEN).then(() => { console.log(`Logged In`) })
-}
-start()
-// Code put together within my Text-Based-Game repository.
-// Not much code, right? I've allocated more of my time to reorganization, just so that I know exactly where what happens.
-```
-Feel free to copy my public code![^3]
 
 # Personal Achievements
 Participated in a Robotics Team and became sponsored by businesses such as Amazon, Tesla, and Gene Haas.
