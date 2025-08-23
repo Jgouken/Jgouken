@@ -10,7 +10,7 @@ Some small plot points about me:
 - **Orange** is my color of choice since birth. 🧡
 
 # Works/Volunteers
-All of the following are my public works (whether volunteer or job related) since April 18th, 2019 with 34,000+[^1] lines of code in counting, in order of importance/detail.
+All of the following are my public works (whether volunteer or job related) since April 18th, 2019 with 40,000+[^1] lines of code in counting, in order of importance/detail.
 Title | Software | Description | Completed | Year
 ------------- | ------------- | ------------- | ------------- | -------------
 [Rhythm Doctor Peer-Reviewal Tool](https://github.com/Jgouken/PRToolVersionCheck) | HTML5/CSS/JS Standalone | A webtool for the [Rhythm Doctor Lounge Discord Server](https://discord.com/invite/rhythmdr) [^4] to "peer-review" custom RD levels to appear on https://rhythm.cafe/ originally created by [auburnsummer](https://github.com/auburnsummer/rhythm-cafe). Code in the linked repository is further backend development and does not show the standalone file.<br><br>*This application and I are unaffiliated with Rhythm Doctor and 7th Beat Games.* | ✅ | 2024
