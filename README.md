@@ -5,7 +5,7 @@ First things first, I'm fueling off of dedication and creativity and slowly grow
 Some small plot points about me:
 - Attending the Rochester Institute of Technology for Software Engineering.
 - I program in **JavaScript** *(node.js, html5)*, **Swift**, **C-Langs**, **Java**, and **HTML5/CSS** with the primary focus towards back-end development. [^3]
-- I have basic knowledgeof **Unity** and **Unreal** gaming engines.
+- I have basic knowledge of **Unity** and **Unreal** gaming engines.
 - **Visual Studio Code** is my editor of choice.
 - **Orange** is my color of choice since birth. 🧡
 
