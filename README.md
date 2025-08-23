@@ -10,8 +10,8 @@ Some small plot points about me:
 - **Orange** is my color of choice since birth. 🧡
 
 # Works/Volunteers
-All of the following are works of Discord.js bots going back to April 18th, 2019 with 34,000+[^1] lines of code in counting, in order of importance/detail.
-Work | Software | Description | Completed | Year
+All of the following are my public works (whether volunteer or job related) since April 18th, 2019 with 34,000+[^1] lines of code in counting, in order of importance/detail.
+Title | Software | Description | Completed | Year
 ------------- | ------------- | ------------- | ------------- | -------------
 [Rhythm Doctor Peer-Reviewal Tool](https://github.com/Jgouken/PRToolVersionCheck) | HTML5/CSS/JS Standalone | A webtool for the [Rhythm Doctor Lounge Discord Server](https://discord.com/invite/rhythmdr) [^4] to "peer-review" custom RD levels to appear on https://rhythm.cafe/ originally created by [auburnsummer](https://github.com/auburnsummer/rhythm-cafe). Code in the linked repository is further backend development and does not show the standalone file.<br><br>*This application and I are unaffiliated with Rhythm Doctor and 7th Beat Games.* | ✅ | 2024
 FIRST/VEX Competitor | Java / C++ | Participated and competed in the FIRST Robotics Competition, FIRST Tech Challenge, and the VEX Robotics Competition for the 2021-22, 2022-23, 2023-24, and 2024-25 school years. Featured in an [aired promotion](https://www.youtube.com/watch?v=oulOSrR_L1w&t=11s) and competed in the 2023-24 VEX World Championship. No code is saved here. | ✅ | 2021
